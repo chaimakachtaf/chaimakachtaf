@@ -20,7 +20,7 @@
 ### 🌐 **Socials**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaimaa-elkachtaf-2b4129265/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/chaimakachtaf)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=web&logoColor=white)]([https://ton-portfolio.com](https://chaimakachtaf.github.io/portfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=web&logoColor=white)](https://chaimakachtaf.github.io/portfolio/)
 
 ---
 
